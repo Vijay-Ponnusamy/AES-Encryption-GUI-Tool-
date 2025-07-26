@@ -7,13 +7,21 @@ This project is a Graphical User Interface (GUI) application developed using Pyt
 Features
 
 •	Real-time AES encryption and decryption
+
 •	User-friendly Tkinter GUI with modern layout
+
 •	Accepts custom AES keys of 16, 24, or 32 bytes
+
 •	Supports AES-128, AES-192, and AES-256
+
 •	Uses CBC (Cipher Block Chaining) mode with random IV generation
+
 •	Ciphertext is displayed in Base64 format
+
 •	Fully handles PKCS7 padding for proper block alignment
+
 •	Separate input/output sections for better understanding
+
 •	Simple to use for educational and learning purposes
 
 What is AES?
@@ -22,9 +30,13 @@ AES (Advanced Encryption Standard) is a secure, symmetric encryption algorithm s
 AES is widely used in:
 
 •	Wi-Fi security (WPA2, WPA3)
+
 •	Web encryption (HTTPS via SSL/TLS)
+
 •	VPN protocols and file encryption systems
+
 •	essaging apps like WhatsApp, Signal
+
 •	Secure disk and cloud storage
 
 Installation
