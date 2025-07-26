@@ -54,12 +54,12 @@ How to Run the Application
 bash
 python aes_gui.py
 
-4.	The GUI window will appear.
-5.	Enter your:
+3.	The GUI window will appear.
+4.	Enter your:
    
 o	Plaintext message to be encrypted
 o	AES key (must be 16/24/32 characters long)
 
-6.  Click the "Encrypt" button to generate the Base64 ciphertext.
-7.	Use the "Decrypt" button with the same key to view the decrypted message.
+5.  Click the "Encrypt" button to generate the Base64 ciphertext.
+6.	Use the "Decrypt" button with the same key to view the decrypted message.
 
